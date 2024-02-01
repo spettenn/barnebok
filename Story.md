@@ -39,7 +39,7 @@ In the future i want to make it a website with a series of the the book and make
 #### Target Audience:
 
 - Primary: Children aged 4 to 8 years old
-- Secondary: Adults who enjoy reading to children
+- Secondary: Adults who enjoy reading to children (i want to add some jokes for adults)
 
 #### Theme:
 

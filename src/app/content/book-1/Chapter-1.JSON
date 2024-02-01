@@ -1,0 +1,37 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Tassens Eventyr",
+        "chapters": [
+          {
+            "chapterNumber": 1,
+            "title": "Knuts oppgang",
+            "content": "I det koselige nabolaget Sagene, midt i en snødekt kveld, finner vi Knut, en eventyrlysten oppgangskatt. Han bor i en sjarmerende oppgang hvor hver etasje forteller sin egen lille historie. Knut elsker sine mennesker; hver og en av dem tilfører varme og farge til hans lille verden. På tredje etasje bor Fru Hansen, som alltid har en vennlig klapp og en skål med friskt vann klar for ham. Ved siden av, i leilighet 32, er det Herr Fernandez, som spiller gitar hver kveld. Knut synes musikken er beroligende og legger seg ofte til å sove til de myke melodiene.",
+            "imageUrl": "/images/chapter1.jpg"
+          },
+          {
+            "chapterNumber": 2,
+            "title": "Knuts flukt",
+            "content": "Men denne kvelden føler Knut en kriblende følelse av eventyr. Han bestemmer seg for å smyge seg ut i den store, vide verdenen utenfor. Med listige skritt og et skarpt blikk passerer han leilighetene. Han kjenner hver krik og krok i oppgangen, og bruker sin kunnskap til å unngå å vekke oppmerksomheten til naboene. Med et siste, kjærlig blikk tilbake på sitt trygge hjem, dykker han ut i snøen som danser i luften.",
+            "imageUrl": "/images/chapter2.jpg"
+            },
+            {
+            "chapterNumber": 3,
+            "title": "Knuts Verden",
+            "content": "Utenfor møter Knut en glitrende verden badet i måneskinn. Snøen ligger som et hvitt teppe over hele nabolaget, og hvert trær er dekket av glitrende krystaller. Knut hopper og danser i snøen, og hver poteavtrykk han etterlater forteller en historie om frihet og glede. Lyktestolpene kaster et gyllent lys over scenen, og verden virker som et magisk rike, akkurat stort nok for en liten oppgangskatt på et stort eventyr.",
+            "imageUrl": "/images/chapter3.jpg"
+            },
+            {
+            "chapterNumber": 4,
+            "title": "",
+            "content": "",
+            "imageUrl": "/images/chapter4.jpg"
+            }
+
+        ]
+      }
+     
+    ]
+  }
+  
